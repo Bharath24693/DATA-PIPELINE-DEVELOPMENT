@@ -1,0 +1,5 @@
+age,salary,gender,target
+25,45000,Male,1
+30,50000,Female,0
+28,40000,Female,1
+32,35000,Male,0
