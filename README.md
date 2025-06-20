@@ -38,3 +38,4 @@ such as machine learning, MLOps, and big data processing.
 
 ### OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/9a4cca2e-2942-48ec-921b-d5629d579a70)
